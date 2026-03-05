@@ -1,2 +1,2 @@
-# second-practical-resporitory
-understanding footer and symantic tags
+wd practical no.2
+understanding semantic element (footer,section,artiacal,header)
